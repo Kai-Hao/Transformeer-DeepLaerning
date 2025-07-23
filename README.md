@@ -10,5 +10,5 @@ This is a Deep Learning course (NTNU Laboratory Training Experiment) using PyTor
 * comparsion with differenet ratio of input mask
 
 <p float="left">
-  <img src="result/result.png" alt="Experiment Result" width="400" />
+  <img src="result/result.png" alt="Experiment Result" width="700" />
 </p>
