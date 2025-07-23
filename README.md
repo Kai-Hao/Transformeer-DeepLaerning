@@ -5,6 +5,7 @@ This is a Deep Learning course (NTNU Laboratory Training Experiment) using PyTor
 ---
 
 ## Experiment Result
+* Fix seed with random initial train test split ratio 0.9/0.1
 * comparsion with different position encoding type (sinusoidal, learned and w/o position encoding)
 * comparsion with layernorm block and w/o layernorm block
 * comparsion with differenet ratio of input mask
